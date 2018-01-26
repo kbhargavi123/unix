@@ -1,0 +1,8 @@
+1.to list file names in column wise --- $ ls -ltr | cut -d ' ' -f9
+
+2.to list unique name of a file name from the filesname
+    $ ls -ltr | cut -d ' ' -f9 | awk -F- '{print $1}' | sort --unique
+
+
+
+
