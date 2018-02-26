@@ -1,0 +1,3 @@
+path=/a/b/c/
+home=/d/e/f
+propertyfile=/sw/pkg/jenkins/2.prop
