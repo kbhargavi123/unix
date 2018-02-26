@@ -1,0 +1,9 @@
+www.x.com/f1/1.txt
+www.x.com/f1/2.txt
+www.x.com/f1/3.txt
+www.x.com/f2/1.js
+www.x.com/f2/2.js
+www.x.com/f2/3.js
+www.x.com/f3/1.css
+www.x.com/f3/2.css
+www.x.com/f3/3.css
