@@ -1,3 +1,4 @@
-p1th=/1/2/3/
-hom5=/4/5/6
-prop5rty6il5=/var/j5nkins_hom5/j5nkins/2.prop
+path=/a/b/c/
+home=/d/e/f
+
+propertyfile=/var/j5nkins_hom5/j5nkins/2.prop

@@ -1,0 +1,7 @@
+./b/c/New Text Document.txt
+./b/config.txt
+./b/config1.txt
+./b/replace.sh
+./filelist.txt
+./New Text Document (2).txt
+./New Text Document.txt
